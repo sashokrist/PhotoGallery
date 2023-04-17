@@ -21,7 +21,7 @@ How to install and run:
 
 5. Set database credentials in .env
 
-6. php artisan magrate --seed
+6. php artisan migrate --seed
 
 7. npm run dev
 
