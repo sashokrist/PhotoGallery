@@ -20,3 +20,9 @@ How to install and run:
 4. php artisan key:generate
 
 5. Set database credentials in .env
+
+6. php artisan magrate --seed
+
+7. npm run dev
+
+8. php artisan serve
